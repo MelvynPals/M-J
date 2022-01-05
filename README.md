@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Melkim06
+- 👋 Hi, I’m @Melvs21
 - 👀 I’m interested in Coding and Gaming.
 - 🌱 I’m currently learning Java and R programming.
 - 💞️ I’m looking to collaborate on ...
